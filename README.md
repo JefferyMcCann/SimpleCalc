@@ -1,2 +1,3 @@
 # SimpleCalc
-I simple two number one symbol calculator app
+a simple two number one symbol calculator app
+the syntax is number, symbol, number
